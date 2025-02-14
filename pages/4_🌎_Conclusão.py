@@ -1,10 +1,6 @@
 import streamlit as st
 import streamlit.components.v1 as components
 import requests
-import pandas as pd
-import numpy as np
-from streamlit_plotly_events import plotly_events
-from IPython.display import display
 
 
 #Configuração gerais das páginas
