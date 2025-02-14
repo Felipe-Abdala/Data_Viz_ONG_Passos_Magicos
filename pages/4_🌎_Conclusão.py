@@ -28,7 +28,7 @@ with coluna1:
 with coluna2:
     st.warning('######  A partir da avaliação dos pontos a melhorar do programa, conclui-se que:', icon="⚠️")
     st.write('''1. __Dificuldade no desempenho acadêmico:__
-    - Durante os anos avaliados, identificou-se que o desempenho escolar, independente do grupo ser de escola pública ou privada, apresentou queda (conforme observado no IDA, que representa o "Indicador de Desempenho Acadêmico"), quando comparados os anos de 2022 com o de 2024.
+    - Durante os anos avaliados, identificou-se que o desempenho escolar (representado pelo "Indicador de Desempenho escolar", sigla IDA) apresentou queda quando comparados os anos de 2022 com o de 2024, tanto na média das :red[__escolas públicas, indo de 6,45 para 6,22__], quanto em :red[__escolas particulares, indo de 7,1 para 7,0__].
              ''')
     st.write('''2. __Evasão diminuindo, sob atenção:__
     - Em 2024, o nível de adesão alcançou em :blue[__1.054 matrículas ativas__], contra :red[__607 alunos evadindo__]. Porém, no ano anterior, 2023, com :blue[__1690 matrículas ativas__] contra :red[__622 desistências__].
