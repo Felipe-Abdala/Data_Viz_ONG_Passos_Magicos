@@ -31,5 +31,5 @@ with coluna2:
     - Durante os anos avaliados, identificou-se que o desempenho escolar, independente do grupo ser de escola pública ou privada, apresentou queda (conforme observado no IDA, que representa o "Indicador de Desempenho Acadêmico"), quando comparados os anos de 2022 com o de 2024.
              ''')
     st.write('''2. __Evasão diminuindo, sob atenção:__
-    - Em 2024, o nível de adesão alcançou em 1.054 matrículas, contra 607.
+    - Em 2024, o nível de adesão alcançou em 1.054 matrículas ativas, contra 607 alunos evadindo. Porém, no ano anterior, 2023, com 690 matrículas ativas contra 622 desistências.
              ''')
