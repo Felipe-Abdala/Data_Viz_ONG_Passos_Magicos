@@ -21,7 +21,7 @@ st.title('Conclusão')
 st.info('As conclusões expostas nessa seção referem-se à execução da análise exploratória e descritiva dos relatórios de desempenho dos alunos da ONG Passos Mágicos, vide página __"Dashboard"__.')
 coluna1, coluna2 = st.columns(2)
 with coluna1:
-    st.info('''######  Dentre os principais :blue[__impactos sociais__] trazidos pelo programa a comunidade em seu entorno destacam-se:''')
+    st.info('######  Dentre os principais :blue[__impactos sociais__] trazidos pelo programa a comunidade em seu entorno destacam-se:', icon="✔️")
     st.write('''1. __Aumento no conjunto do desempenho acadêmico, psicossocial e psicopedagógico (INDE):__
     - Embora os indicadores de desempenho acadêmico tenham decaído entre 2022 e 2024, o resultado global envolvendo as áreas acadêmicas, psicossociais e psicopedagógicas totalizaram melhoras nos alunos do programa da ONG Passos Mágicos, o que corrobora com o propósito de trazer impacto social para as diversas vertentes do programa.
              ''')
