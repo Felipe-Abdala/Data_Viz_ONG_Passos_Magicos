@@ -1,20 +1,8 @@
 import streamlit as st
 import streamlit.components.v1 as components
-import plotly as plt
-import plotly.express as px
-import plotly.graph_objects as go
 import requests
 import pandas as pd
 import numpy as np
-import plotly.express as px
-import streamlit as st
-import time
-import datetime
-from datetime import date, timedelta
-#from prophet import Prophet
-#from prophet.diagnostics import cross_validation, performance_metrics
-#from sklearn.metrics import mean_absolute_error, mean_squared_error
-from math import sqrt
 from streamlit_plotly_events import plotly_events
 from IPython.display import display
 
@@ -39,12 +27,11 @@ st.write('''- BigQuery: Base de dados tratada |  Disponível em: https://console
 - GitHub: repositório com o Dashboard e configurações Streamlit | Disponível em: https://github.com/Felipe-Abdala/PEDE_ONG_Passos_Magicos | Data de criação: 11/02/2025''')
 
 st.info('''__Fonte de Dados: Dicionários de dados, base de dados, relatórios anuais__''')
-st.write('''- Disponível em: https://drive.google.com/drive/folders/1Z1j6uzzCOgjB2a6i3Ym1pmJRsasfm7cD | Data de acesso: 05/02/2025''')
-
-
+st.write('''- Diretório com dicionário e bases de dados: Disponível em: https://drive.google.com/drive/folders/1Z1j6uzzCOgjB2a6i3Ym1pmJRsasfm7cD | Data de acesso: 05/02/2025
+- Base de dados: PEDE 2024 (arquivo bruto), antes de ser tratado no BigQuery | https://docs.google.com/spreadsheets/d/1td91KoeSgXrUrCVOUkLmONG9Go3LVcXpcNEw_XrL2R0/edit?gid=90992733#gid=90992733 | Data de acesso: 05/02/2025''')
 st.info('''__Fonte de imagens__''')
 st.write('''-  Disponível em: https://passosmagicos.org.br/wp-content/uploads/2020/10/Passos-magicos-icon-cor.png | Data de acesso: 10/02/2025
-- Disponível em:  | Data de acesso: 10/02/2025
-- Disponível em:  | Data de acesso: 10/02/2025''')
+- Disponível em: https://niverdobem.com.br/wp-content/uploads/2020/10/18A3D82B-2FDB-4355-A9D1-FBAA99E56F41.jpeg | Data de acesso: 10/02/2025
+- Disponível em: https://passosmagicos.com.br/wp-content/uploads/2021/04/Design-sem-nome-5.png | Data de acesso: 10/02/2025''')
 st.info('''__Conceitos de Storytelling e boas práticas em uso de gráficos e apresentações__''')
 st.write('''- Disponível em: https://www.storytellingwithdata.com/chart-guide | Data de acesso: 10/02/2025''')
