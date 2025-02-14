@@ -26,7 +26,7 @@ with coluna1:
     - Embora os indicadores de desempenho acadêmico tenham decaído entre 2022 e 2024, o resultado global envolvendo as áreas acadêmicas, psicossociais e psicopedagógicas totalizaram melhoras nos alunos do programa da ONG Passos Mágicos, o que corrobora com o propósito de trazer impacto social para as diversas vertentes do programa.
              ''')
 with coluna2:
-    st.info('''######  A partir da avaliação dos pontos a melhorar do programa, conclui-se que:''')
+    st.warning('######  A partir da avaliação dos pontos a melhorar do programa, conclui-se que:', icon="⚠️")
     st.write('''1. __Dificuldade no desempenho acadêmico:__
     - Durante os anos avaliados, identificou-se que o desempenho escolar, independente do grupo ser de escola pública ou privada, apresentou queda (conforme observado no IDA, que representa o "Indicador de Desempenho Acadêmico"), quando comparados os anos de 2022 com o de 2024.
              ''')
