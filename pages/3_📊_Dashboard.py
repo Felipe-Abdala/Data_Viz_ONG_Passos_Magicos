@@ -19,6 +19,6 @@ st.sidebar.image("https://impactospositivos.com/wp-content/uploads/2024/03/FIAP-
 # início - Aba Dashboard
 st.info("No Dashboard do Looker, navegue pelas *métricas psicológicas*, *educacionais* e de *desempenho* dos alunos.")
 looker_studio_url = "https://lookerstudio.google.com/embed/reporting/8bd13cb3-08c7-4e95-8530-d992440e4f21/page/b8jlE"
-components.iframe(looker_studio_url, width=800, height=600)
+components.iframe(looker_studio_url, width=1200, height=600)
 
 # Fim - Aba 2 - Corpo da página
