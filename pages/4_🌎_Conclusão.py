@@ -17,7 +17,7 @@ st.sidebar.image("https://impactospositivos.com/wp-content/uploads/2024/03/FIAP-
 
 # Título Página
 st.title('Conclusão')
-##REVISAR#######################################
+
 st.info('As conclusões expostas nessa seção referem-se à execução da análise exploratória e descritiva dos relatórios de desempenho dos alunos da ONG Passos Mágicos, vide página __"Dashboard"__.')
 coluna1, coluna2 = st.columns(2)
 with coluna1:
@@ -27,6 +27,6 @@ with coluna1:
              ''')
 with coluna2:
     st.info('''######  A partir da avaliação dos pontos a melhorar do programa, conclui-se que:''')
-    st.write('''1. __Evasão:__
-    - Durante os anos avaliados, identificou-se...
+    st.write('''1. __Dificuldade no desempenho escolar:__
+    - Durante os anos avaliados, identificou-se que o desempenho escolar, independente do grupo ser de escola pública ou privada, apresentou queda (conforme observado no IDA, que representa o "Indicador de Desempenho Acadêmico"), quando comparados os anos de 2022 com o de 2024.
              ''')
