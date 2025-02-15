@@ -30,6 +30,10 @@ with coluna1:
     - O programa tem atendido efetivamente uma demanda intrínseca aos seus valores, o de ter impacto social, conforme visto na proporção de :blue[alunos de escola pública] versus :blue[de escola particulares], sendo o primeiro grupo o mais representativo.
              ''')
     st.write('''''')
+    st.write('''3. :green[__Melhor na média das notas:__]
+    - O programa tem apresentado progresso, quando observada a nota média dos alunos (via Distribuição Normal), pois há maior volume de alunos com notas categorizadas como :blue[topázio] (ou seja, o *tier* das maiores notas).
+             ''')
+    st.write('''''')
 with coluna2:
     st.warning('######  A partir da avaliação dos pontos a melhorar do programa, conclui-se que:', icon="⚠️")
     st.write('''1. :red[__Dificuldade no desempenho acadêmico:__]
