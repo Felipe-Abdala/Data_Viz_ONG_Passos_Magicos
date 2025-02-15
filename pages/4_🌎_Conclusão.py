@@ -30,7 +30,7 @@ with coluna1:
              ''')
 with coluna2:
     st.warning('######  A partir da avaliação dos pontos a melhorar do programa, conclui-se que:', icon="⚠️")
-    st.write('''1. :orange[__Dificuldade no desempenho acadêmico:__
+    st.write('''1. :yellow[__Dificuldade no desempenho acadêmico:__]
     - Durante os anos avaliados, identificou-se que o desempenho escolar (representado pelo "Indicador de Desempenho escolar", sigla IDA) apresentou queda quando comparados os anos de 2022 com o de 2024, tanto na média das :red[__escolas públicas, indo de 6,45 para 6,22__], quanto em :red[__escolas particulares, indo de 7,1 para 7,0__].
              ''')
     st.warning('''2. __Evasão diminuindo, porém ainda sob atenção:__
