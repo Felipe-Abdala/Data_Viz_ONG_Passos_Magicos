@@ -5,7 +5,7 @@ import requests
 
 #Configuração gerais das páginas
 st.set_page_config(page_title='Pós-Tech FIAP | Datathon | Grupo 59', page_icon=":chart_with_upwards_trend:", layout= 'wide')
-st.header('Modelo interativo e resultados')
+st.title('Modelo interativo e resultados')
 
 # SideBar
 st.sidebar.title('Grupo')
