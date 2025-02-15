@@ -27,7 +27,7 @@ with coluna1:
              ''')
     st.write('''''')
     st.write('''2. :green[__Aumento no conjunto do desempenho acadêmico, psicossocial e psicopedagógico (INDE):__]
-    - O programa tem atendido efetivamente uma demanda intrínseca aos seus valores, o de ter impacto social, conforme visto na proporção de :blue[alunos de escola pública] versus __de escola particulares__, sendo o primeiro grupo o mais representativo.
+    - O programa tem atendido efetivamente uma demanda intrínseca aos seus valores, o de ter impacto social, conforme visto na proporção de :blue[alunos de escola pública] versus :blue[de escola particulares], sendo o primeiro grupo o mais representativo.
              ''')
     st.write('''''')
 with coluna2:
