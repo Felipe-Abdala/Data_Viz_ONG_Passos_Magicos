@@ -31,7 +31,7 @@ with coluna1:
              ''')
     st.write('''''')
     st.write('''3. :green[__Melhor na média das notas:__]
-    - O programa tem apresentado progresso, quando observada a nota média dos alunos (via Distribuição Normal), pois há maior volume de alunos com notas categorizadas como :blue[topázio] (ou seja, o *tier* das maiores notas).
+    - O programa tem apresentado :blue[progresso], quando observada a :blue[nota média dos alunos] (via Distribuição Normal), pois há maior volume de alunos com notas categorizadas como :blue[topázio] (ou seja, o *tier* das maiores notas).
              ''')
     st.write('''''')
 with coluna2:
