@@ -16,7 +16,7 @@ st.sidebar.write('''- Cheila Betina Schilling dos Santos: RM 355693
 st.sidebar.image("https://impactospositivos.com/wp-content/uploads/2024/03/FIAP-Apoiador.png", caption="Pós-Tech Data Analytics | Datathon | Grupo 59 | Imagem disponível em: vide bibliografia")
 
 # Página
-st.header('Análise relatórios ONG Passos Mágicos')
+st.title('Análise relatórios ONG Passos Mágicos')
 st.markdown(' Pós-Tech FIAP Data Analytics | :blue[Datathon] | Grupo 59')
 
 #st.caption("O mercado de petróleo e seus derivados traz consigo voluptuosas cifras e com enfoque em sua :blue[_produção_] e :blue[_comercialização_] que o presente trabalho se debruça.")
