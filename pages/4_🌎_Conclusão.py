@@ -26,7 +26,7 @@ with coluna1:
     - Entre os anos de 2022 e 2024, o resultado global do __*INDE*__, envolvendo as __áreas acadêmicas, psicossociais e psicopedagógicas__ totalizaram melhoras nos alunos do programa da ONG Passos Mágicos, tanto em :blue[escolas públicas evoluindo de 7,2 para 7,3], quanto para :blue[particulares migrando de 7,7 para 7,9].
              ''')
     st.write('''''')
-    st.write('''2. :green[__Aumento no desempenho acadêmico, psicossocial e psicopedagógico (INDE):__]
+    st.write('''2. :green[__Prevalência de alunos de escola pública:__]
     - O programa tem atendido efetivamente uma demanda intrínseca aos seus valores, o de ter impacto social, conforme visto na proporção de :blue[alunos de escola pública] versus :blue[de escola particulares], sendo o primeiro grupo o mais representativo.
              ''')
     st.write('''''')
