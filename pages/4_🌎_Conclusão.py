@@ -23,11 +23,11 @@ coluna1, coluna2 = st.columns(2)
 with coluna1:
     st.success('######  Dentre os principais :blue[__impactos sociais__] trazidos pelo programa destacam-se:', icon="✔️")
     st.write('''1. :green[__Aumento no conjunto do desempenho acadêmico, psicossocial e psicopedagógico (INDE):__]
-    - Entre os anos de 2022 e 2024, o resultado global do __*INDE*__, envolvendo as __áreas acadêmicas, psicossociais e psicopedagógicas__ totalizaram melhoras nos alunos do programa da ONG Passos Mágicos, tanto em :blue[escolas públicas evoluindo de 7,2 para 7,3], quanto para :blue[particulares migrando de 7,7 para 7,9].
+    - Entre os anos de 2022 e 2024, o resultado global do __*INDE*__, envolvendo as __áreas acadêmicas, psicossociais e psicopedagógicas__ totalizaram melhoras nos alunos do programa da ONG Passos Mágicos, tanto em :green[escolas públicas evoluindo de 7,2 para 7,3], quanto para :green[particulares migrando de 7,7 para 7,9].
              ''')
     st.write('''''')
     st.write('''2. :green[__Aumento no conjunto do desempenho acadêmico, psicossocial e psicopedagógico (INDE):__]
-    - O programa tem atendido efetivamente uma demanda intrínseca aos seus valores, o de ter impacto social, conforme visto na proporção de :green[__alunos de escola pública__] versus __de escola particulares__, sendo o primeiro grupo o mais representativo.
+    - O programa tem atendido efetivamente uma demanda intrínseca aos seus valores, o de ter impacto social, conforme visto na proporção de :green[alunos de escola pública] versus __de escola particulares__, sendo o primeiro grupo o mais representativo.
              ''')
     st.write('''''')
 with coluna2:
